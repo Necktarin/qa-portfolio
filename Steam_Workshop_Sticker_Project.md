@@ -11,10 +11,10 @@ Design, test and prepare a sticker for submission to the Counter-Strike 2 Worksh
 ## Steam Workshop Links
 
 ### Sticker Version 1
-https://steamcommunity.com/sharedfiles/filedetails/?id=3672043071
+https://steamcommunity.com/sharedfiles/filedetails/?id=3672090092
 
 ### Sticker Version 2
-https://steamcommunity.com/sharedfiles/filedetails/?id=3672090092
+https://steamcommunity.com/sharedfiles/filedetails/?id=3672043071
 
 ## Project Screenshots
 
