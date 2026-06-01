@@ -10,11 +10,11 @@ Design, test and prepare a sticker for submission to the Counter-Strike 2 Worksh
 
 ## Project Screenshots
 
-### Sticker Design
+### Sticker Design HOLO
 
 ![StickerHOLO](sticker_preview_1.png)
 
-### In-Game Preview
+### Sticker Design
 
 ![Sticker](sticker_preview_2.png)
 
