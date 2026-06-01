@@ -8,6 +8,17 @@ Independent project focused on creating and publishing a custom Counter-Strike 2
 
 Design, test and prepare a sticker for submission to the Counter-Strike 2 Workshop.
 
+## Project Screenshots
+
+### Sticker Design
+
+![StickerHOLO](sticker_preview_1.png)
+
+### In-Game Preview
+
+![Sticker](sticker_preview_2.png)
+
+
 ## Responsibilities
 
 - Concept creation
