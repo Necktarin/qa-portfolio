@@ -1,17 +1,40 @@
 # Steam Workshop Sticker Project
 
-## Project
+## Overview
 
-Created and submitted a custom sticker for Counter-Strike 2 Workshop.
+Independent project focused on creating and publishing a custom Counter-Strike 2 Workshop sticker for Steam Workshop.
+
+## Objective
+
+Design, test and prepare a sticker for submission to the Counter-Strike 2 Workshop.
 
 ## Responsibilities
 
-- Idea and concept creation
-- Graphic asset preparation
+- Concept creation
+- Sticker design preparation
+- Image editing
+- Alpha mask preparation
+- Visual testing in Workshop tools
+- Submission preparation
+
+## Tools Used
+
+- Adobe Photoshop
+- Steam Workshop Tools
+- Counter-Strike 2 Workshop
+
+## Results
+
+- Created a complete sticker concept
+- Prepared all required Workshop assets
+- Published the project to Steam Workshop
+- Gained practical experience in testing visual assets and validating release requirements
+
+## Skills Demonstrated
+
+- Attention to detail
 - Visual testing
-- Workshop publication process
-- Quality verification before submission
-
-## Result
-
-Sticker was successfully uploaded to Steam Workshop and passed technical validation.
+- Defect detection
+- Documentation
+- Asset validation
+- Release preparation
