@@ -13,8 +13,8 @@ Junior QA Engineer with hands-on experience in manual testing of web and mobile 
 - Excel
 - GitHub
 ### Languages
-- Russian — Native
-- English — B1
+- Russian - Native
+- English - B1
 ## Projects
 
 ### Weblodj Website Testing
