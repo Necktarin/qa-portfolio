@@ -18,29 +18,31 @@ Junior QA Engineer with hands-on experience in manual testing of web and mobile 
 ## Projects
 
 ### Weblodj Website Testing
+
 Manual testing of a website including test case creation and bug reporting.
 
 Files:
-- Test_Cases_Weblodj.xlsx
-- Test_Run_and_Bug_Report.xlsx
+
+- [Test Cases](Test_Cases_Weblodj.xlsx)
+- [Test Run and Bug Report](Test_Run_and_Bug_Report.xlsx)
 
 ### American Dad! Apocalypse Soon
-During independent testing of the mobile game, I identified a usability issue and submitted a bug report to the development team.
 
-Issue:
-When a large number of clones are displayed together with an active event stand, available screen space becomes limited, affecting usability and interaction with game elements.
+Usability bug identified during independent testing of the mobile game.
+
+- [Usability Bug Report](American_Dad_Usability_Bug_Report.md)
+
+Bug Screenshot:
+
+![Bug Screenshot](american_dad_bug_screenshot.jpeg)
 
 ### Steam Workshop Sticker Project
-Designed, tested and submitted a custom Counter-Strike 2 Workshop sticker for publication.
 
-Responsibilities:
-- Concept creation
-- Graphic preparation
-- Visual testing
-- Publication preparation
+Created and published a custom Counter-Strike 2 Workshop sticker.
+
+- [Project Description](Steam_Workshop_Sticker_Project.md)
 
 ## Career Goal
+
 Seeking a QA Intern / QA Trainee position to develop practical software testing skills and grow in Quality Assurance.
-
-
 
