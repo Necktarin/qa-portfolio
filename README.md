@@ -15,7 +15,17 @@ Junior QA Engineer with hands-on experience in manual testing of web and mobile 
 ### Languages
 - Russian - Native
 - English - B1
+
+## Tools
+
+- GitHub
+- Chrome DevTools
+- Excel
+- Jira (basic knowledge)
+- Postman (learning)
+  
 ## Projects
+
 
 ### Weblodj Website Testing
 
