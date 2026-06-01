@@ -8,6 +8,14 @@ Independent project focused on creating and publishing a custom Counter-Strike 2
 
 Design, test and prepare a sticker for submission to the Counter-Strike 2 Workshop.
 
+## Steam Workshop Links
+
+### Sticker Version 1
+https://steamcommunity.com/sharedfiles/filedetails/?id=3672043071
+
+### Sticker Version 2
+https://steamcommunity.com/sharedfiles/filedetails/?id=3672090092
+
 ## Project Screenshots
 
 ### Sticker Design HOLO
